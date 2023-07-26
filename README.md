@@ -12,4 +12,8 @@
 
 The Combined Dataset is the combination of the Roboflow and Spinneys Datasets.
 
+#### Solution 1: Labeling Empty and Semi-Empty Spaces (Roboflow Dataset and some images from Spinneys Dataset)
+#### Solution 2: Labeling Empty Spaces only (Roboflow Dataset and some images from Spinneys Dataset)
+#### Solution 3: Labeling Empty Spaces only (Combining the full Spinneys Dataset with the Roboflow Dataset)
+
 "Train Solution3 Predict" and "Train6 Solution3 Predict" are predictions on the test set of the combined dataset.
