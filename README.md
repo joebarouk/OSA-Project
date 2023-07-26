@@ -9,3 +9,7 @@
 #### Roboflow Dataset: https://universe.roboflow.com/fyp-ormnr/on-shelf-stock-availability-ox04t
 #### Spinneys Dataset: https://universe.roboflow.com/yolo-wujjy/spinneys-test
 #### Combined Dataset: https://universe.roboflow.com/yolo-wujjy/ce-s
+
+The Combined Dataset is the combination of the Roboflow and Spinneys Datasets.
+
+"Train Solution3 Predict" and "Train6 Solution3 Predict" are predictions on the test set of the combined dataset.
